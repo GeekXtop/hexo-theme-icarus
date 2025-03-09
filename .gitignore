@@ -108,6 +108,7 @@ dist
 
 _config*.yml*
 yarn.lock
+# NPM lock file
 package-lock.json
 
 # Intellij Idea config file
